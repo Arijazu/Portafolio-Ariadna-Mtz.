@@ -4,7 +4,7 @@
 
 
 <p align= "center">
-<img alt="proyecto" src="./github/Cover.png" width="100%">
+<img alt="proyecto" src="https://github.com/Arijazu/Portafolio-Ariadna-Mtz./tree/main/Challenge-one-portafolio" width="100%">
 </p>
 
 <p align="center">
