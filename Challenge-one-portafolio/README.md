@@ -7,11 +7,6 @@
 <img alt="proyecto." src="https://github.com/Arijazu/Portafolio-Ariadna-Mtz./tree/main/Challenge-one-portafolio" width="100%">
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>
-  <a href="#-proyecto">Proyecto</a>
-  <a href="#-layout">Layout</a>
-</p>
 
 ## 💻 Tecnologías 
 
