@@ -2,16 +2,6 @@
 <p align="center"> Primer challenge en la especialización de Front-end de Alura latam</p>
 
 
-<p align= "center">
-<img alt="proyecto" src="./github/Cover.JPG" width="100%">
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Proyeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## 💻 Tecnologías 
 
 Este proyecto fue realizado con las siguientes tecnologías:
