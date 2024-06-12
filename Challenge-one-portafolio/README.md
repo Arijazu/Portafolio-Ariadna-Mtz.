@@ -4,7 +4,7 @@
 
 
 <p align= "center">
-<img alt="proyecto" src="./github/Cover.png" width="100%">
+<img alt="proyecto" src="./github/cover.JPG" width="100%">
 </p>
 
 <p align="center">
